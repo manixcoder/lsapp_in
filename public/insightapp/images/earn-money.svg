@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="72px" viewBox="0 0 71 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-935.000000, -789.000000)">
+            <g id="Group-12" transform="translate(935.000000, 789.000000)">
+                <path d="M33.3391304,71 C54.9478261,71 71,54.2303148 71,33.5438596 C71,12.8574045 62.1647413,1 41.3652174,1 C20.5656935,1 0,2.41880806 0,23.1052632 C0,43.7917183 11.7304348,71 33.3391304,71 Z" id="Oval-Copy-7" fill-opacity="0.5" fill="#DEDFFA" transform="translate(35.500000, 36.000000) rotate(-270.000000) translate(-35.500000, -36.000000) "></path>
+                <g id="Group-2" transform="translate(16.000000, 16.000000)" stroke="#493CD3" stroke-width="1.75">
+                    <polyline id="Stroke-1" stroke-linecap="round" stroke-linejoin="round" points="23.4782609 29.8546957 13.9130435 35.9129565 1.77635684e-14 27.3477391"></polyline>
+                    <path d="M26.0869565,7.82582609 L26.0869565,9.56495652" id="Stroke-3"></path>
+                    <path d="M13.9130435,15.651913 L13.9130435,17.3910435" id="Stroke-4"></path>
+                    <polygon id="Stroke-5" stroke-linecap="round" stroke-linejoin="round" points="23.4782609 19.0749565 9.16173913 9.39930435 15.6052174 5.51234783 19.3904348 7.88886957 30.4347826 14.8193043 30.4347826 31.7306087 23.4782609 36.2175652"></polygon>
+                    <path d="M27.5666957,13.0194783 L32.5432174,9.87426087 C31.7875652,9.396 31.6301739,8.72121739 32.5432174,8.14469565 L27.0693043,4.68469565 C26.1571304,5.26121739 25.0884348,5.16208696 24.3327826,4.68469565 L19.3275652,7.84904348" id="Stroke-6"></path>
+                    <path d="M12.8885217,11.918087 L7.44852174,15.3572174 C8.36069565,15.9337391 8.212,16.6050435 7.45721739,17.0815652 L12.9302609,20.5415652 C13.6850435,20.0641739 14.745913,19.9711304 15.6589565,20.5476522 L20.8154783,17.2876522" id="Stroke-8"></path>
+                    <polyline id="Stroke-10" stroke-linecap="round" stroke-linejoin="round" points="23.4782609 19.1590435 13.9130435 25.2173043 1.77635684e-14 16.5216522 10.2834783 10.1573043"></polyline>
+                    <polyline id="Stroke-12" stroke-linecap="round" stroke-linejoin="round" points="16.5747826 6.11304348 26.0869565 2.7533531e-14 40 8.69565217 30.386087 14.7843478"></polyline>
+                    <polyline id="Stroke-14" stroke-linecap="round" stroke-linejoin="round" points="23.4782609 24.5221739 13.9130435 30.5647826 1.77635684e-14 21.9995652"></polyline>
+                    <path d="M40,14.0432174 L30.4373913,20.0997391" id="Stroke-16" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-18" stroke-linecap="round" stroke-linejoin="round" points="23.4782609 35.2025217 13.9130435 41.2607826 1.77635684e-14 32.6955652"></polyline>
+                    <path d="M40,24.7388696 L30.4347826,30.7971304" id="Stroke-20" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40,19.3910435 L30.4347826,25.4493043" id="Stroke-22" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
