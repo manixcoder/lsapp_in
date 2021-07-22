@@ -1,8 +1,8 @@
-APP_NAME='insight_app'
+APP_NAME='project_app'
 APP_ENV=local
 APP_KEY=base64:jKOEt603xaDc4HL7s/MwBIne7yc1yFn6vjrbQca1w/s=
 APP_DEBUG=true
-API_URL=https://localhost/insight_app/
+API_URL=https://localhost/project_app/
 LOG_CHANNEL=stack
 
 DB_CONNECTION=mysql
@@ -27,8 +27,8 @@ MAIL_HOST=smtp.gmail.com
 MAIL_PORT=587
 MAIL_USERNAME=manish.d4d@gmail.com
 MAIL_PASSWORD=rgzltslovxaxkfty
-mail_from_address=info@insuranceportal.com
-MAIL_FROM_NAME='Insurance Portal'
+mail_from_address=info@project_app.com
+MAIL_FROM_NAME={ APP_NAME }
 
 AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
